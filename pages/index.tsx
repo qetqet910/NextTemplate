@@ -1,7 +1,6 @@
 import React, { useEffect, Suspense, useMemo, useRef } from 'react';
 import ThreeTrain from '../public/script/three';
 
-// import type { NextPage } from 'next'
 import dynamic from "next/dynamic";
 import styles from '../styles/Home.module.scss'
 
